@@ -34,6 +34,6 @@ if ($result->num_rows > 0) {
     echo "0 resultados";
 }
 ?>  
-    <p>Hola Guerrero!</p>  
+    <p>Hola Guerrero!</p>
 </body>
 </html>
